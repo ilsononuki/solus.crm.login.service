@@ -1,0 +1,12 @@
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\bin\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.deps.json
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\bin\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.dll
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.csprojAssemblyReference.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.AssemblyInfoInputs.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.AssemblyInfo.cs
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\bin\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.pdb
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\bin\Debug\netstandard2.0\solus.crm.login.service.Domain.dll
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\bin\Debug\netstandard2.0\solus.crm.login.service.Domain.pdb
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.csproj.CopyComplete
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.dll
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Infra.Data\obj\Debug\netstandard2.0\solus.crm.login.service.Infra.Data.pdb

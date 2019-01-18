@@ -1,0 +1,9 @@
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\bin\Debug\netstandard2.0\solus.crm.login.service.Domain.deps.json
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\bin\Debug\netstandard2.0\solus.crm.login.service.Domain.dll
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.csprojAssemblyReference.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.csproj.CoreCompileInputs.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.AssemblyInfoInputs.cache
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.AssemblyInfo.cs
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\bin\Debug\netstandard2.0\solus.crm.login.service.Domain.pdb
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.dll
+C:\Develop\Project\CRM\solus.crm.login.service\solus.crm.login.service.Domain\obj\Debug\netstandard2.0\solus.crm.login.service.Domain.pdb
